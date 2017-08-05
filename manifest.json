@@ -1,0 +1,16 @@
+{
+  "name": "Curso PWAs",
+  "short_name": "curso-pwa",
+  "start_url": "./",
+  "dir": "ltr",
+  "lang": "pt-BR",
+  "background_color": "#f7f9fb",
+  "theme_color": "#ee0",
+  "display": "standalone",
+  "description": "Arquivo Manifest.json usado no curso de PWAs",
+  "icons": [{
+    "src": "images/nasc-48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+    }]
+}
